@@ -1,2 +1,0 @@
-# marvellousppa
-PPA DEMO APPLICATION
